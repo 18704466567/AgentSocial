@@ -20,7 +20,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
   - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
-  - [✨ Survey](#survey)
+  - [✨ Survey](#-survey)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
     - [📑 Citation](#-citation)
       - [🗒️ Taxonomy 1](#️-taxonomy-1)
