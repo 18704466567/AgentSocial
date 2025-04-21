@@ -152,7 +152,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 | Title                                                        |  Model  |  Date   |                        Code                        |  Venue  |
 | :----------------------------------------------------------- | :-----: | :-----: | :------------------------------------------------: | :-----: |
-| [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) | LaViLa  | 12/2022 | [code](https://github.com/facebookresearch/lavila) |  CVPR   |
+
 
 
 #### 👀 Vid-LLM Instruction Tuning
@@ -161,7 +161,6 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 | Title                                                        |     Model     |  Date   |                         Code                         | Venue |
 | :----------------------------------------------------------- | :-----------: | :-----: | :--------------------------------------------------: | :---: |
-| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) |  Video-LLaMA  | 06/2023 |  [code](https://github.com/DAMO-NLP-SG/Video-LLaMA)  | arXiv |
 
 
 ##### Fine-tuning with Insertive Adapters
