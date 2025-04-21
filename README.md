@@ -41,7 +41,6 @@ Multiple minor updates will follow this major update. And the GitHub repository 
       - [Video Instruction Tuning](#video-instruction-tuning)
         - [Pretraining Dataset](#pretraining-dataset)
         - [Fine-tuning Dataset](#fine-tuning-dataset)
-      - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
   - [Contributing](#contributing)
     - [🌟 Star History](#-star-history)
     - [♥️ Contributors](#️-contributors)
