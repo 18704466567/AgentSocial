@@ -250,7 +250,7 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-[Feng Kai](https://github.com/fengkaifengkai/18704466567.github.io) @ University of Rochester \
+[Feng Kai](https://github.com/fengkaifengkai/18704466567.github.io) @ University of WhuHan \
 
 
 
