@@ -1,5 +1,5 @@
 
-# Awesome-LLMs-for-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLMs-for-Social-Agent [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### 🔥🔥🔥 [Video Understanding with Large Language Models: A Survey](https://arxiv.org/abs/2312.17432)
 
