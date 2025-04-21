@@ -18,7 +18,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome-Social-Agent ](#awesome-social-agent-)
-    - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
+    - [🔥🔥🔥 AGI](#-agi)
   - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
   - [✨ Survey](#-survey)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
