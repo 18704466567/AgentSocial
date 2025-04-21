@@ -67,6 +67,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/abs/2401.03568) |   Agent AI   | 01/2024 |      [code]()       | arXiv |
+| [**Safety at Scale: A Comprehensive Survey of Large Model Safety**](https://arxiv.org/abs/2502.05206) |   Safety at Scale   | 03/2024 |      [code]()       | arXiv |
 
 
 ## 😎 Vid-LLMs: Models 
