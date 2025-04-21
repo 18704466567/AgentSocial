@@ -32,15 +32,8 @@ Multiple minor updates will follow this major update. And the GitHub repository 
         - [🎥 Vid-LLM Pretraining](#-vid-llm-pretraining)
         - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
         - [🦾 Hybrid Methods](#-hybrid-methods)
-        - [Training-free Methods](#-training-free-methods)
+
   - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
-      - [Recognition and Anticipation](#recognition-and-anticipation)
-      - [Captioning and Description](#captioning-and-description)
-      - [Grounding and Retrieval](#grounding-and-retrieval)
-      - [Question Answering](#question-answering)
-      - [Video Instruction Tuning](#video-instruction-tuning)
-        - [Pretraining Dataset](#pretraining-dataset)
-        - [Fine-tuning Dataset](#fine-tuning-dataset)
   - [Contributing](#contributing)
     - [🌟 Star History](#-star-history)
     - [♥️ Contributors](#️-contributors)
@@ -57,9 +50,6 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 
 ## 😎 Vid-LLMs: Models 
-
-
-### 📑 Citation
 
 ### 🗒️ Taxonomy 1
 
@@ -79,14 +69,12 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 #### 🎥 Vid-LLM Pretraining
 
-| Title                                                        |  Model  |  Date   |                        Code                        |  Venue  |
-| :----------------------------------------------------------- | :-----: | :-----: | :------------------------------------------------: | :-----: |
+
 
 
 #### 👀 Vid-LLM Instruction Tuning
 
-| Title                                                        |     Model     |  Date   |                         Code                         | Venue |
-| :----------------------------------------------------------- | :-----------: | :-----: | :--------------------------------------------------: | :---: |
+
 
 #### 🦾 Hybrid Methods
 
@@ -102,26 +90,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
 
 ## Tasks, Datasets, and Benchmarks
 
-#### Recognition and Anticipation
 
-| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
-| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
-
-#### Captioning and Description
-| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
-| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
-
-#### Grounding and Retrieval
-| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
-| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
-
-#### Question Answering
-| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
-| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
-
-#### Video Instruction Tuning
-| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
-| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
 
 
 
