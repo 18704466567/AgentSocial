@@ -17,7 +17,7 @@
 Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
+- [Awesome-Social-Agent ](#awesome-social-agent-)
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
   - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
   - [✨ Survey](#-survey)
