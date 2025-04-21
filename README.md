@@ -115,6 +115,6 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 
 <a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/130453956?v=4" />
+  <img src="" />
 </a>
 
