@@ -107,12 +107,8 @@ If you find our survey useful for your research, please cite the following paper
 
 ##### LLM as Regressor
 
-<!-- 
-| [**title**](link) |   model   | date |      [code](link)       | venue |
- -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-|[**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](https://arxiv.org/pdf/2411.14505)|LLaVA-MR|11/2024|[code]()| arXiv |
 | [**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**](https://arxiv.org/abs/2406.12235) |   Holmes-VAD   | 06/2024 |      [code](https://holmesvad.github.io/)       | arXiv |
 
 
@@ -257,7 +253,7 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-[Yunlong Tang](https://yunlong10.github.io) @ University of Rochester \
+[Feng Kai](https://github.com/fengkaifengkai/18704466567.github.io) @ University of Rochester \
 
 
 
