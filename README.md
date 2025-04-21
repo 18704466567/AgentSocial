@@ -7,9 +7,7 @@
 ## 📢 News
 [04/20/2025]
 
-📢 
-
-✨ 
+📢 ✨ 
 
 🚀 **What's New in This Update**:
 <br>✅ Updated to include around 100 additional Vid-LLMs and 15 new benchmarks as of June 2024.
