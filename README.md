@@ -1,7 +1,7 @@
 
 # Awesome-Social-Agent [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### 🔥🔥🔥 AGI空间
+### 🔥🔥🔥 AGI空间(https://agispace.feishu.cn/wiki/JkVuwRaXniSDShklwhMc1b2bnId)
 
 
 ## 📢 News
